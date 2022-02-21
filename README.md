@@ -142,5 +142,37 @@ chrome.switches="""--start-maximized;--test-type;--no-sandbox;--ignore-certifica
 
 Serenity uses WebDriverManager to download the WebDriver binaries automatically before the tests are executed.
 
+## Also ı used to Github Copilot in this project
+
+I want to share my experiences about Github Copilot.Firstly,I gave a example to writing scenario via Github Copilot
+
+![SerenityBDD-via-GithubCopilot-se](https://user-images.githubusercontent.com/66682123/155021154-d12de067-e1a8-4e17-982f-533709dfd1ff.gif)
+
+
+In this project scenario came to Github Copilot.Also,I make basic Serenity BDD test in this project.
+
+## Scenario Proposal
+
+![SerenityBDD-via-GithubCopilot-se-1](https://user-images.githubusercontent.com/66682123/155021374-cac8a6ce-2f6c-4d3f-b537-55fc1663d478.gif)
+
+After that scenario,I created to step definitions.Also,Github Copilot give some advice.
+
+## Step Definition Proposal
+
+![SerenityBDD-via-GithubCopilot-Se-d](https://user-images.githubusercontent.com/66682123/155021686-8ca1d121-17dd-4b9e-a807-694dd4cc6015.gif)
+
+Also when I search web page element,Github Copilot gave to web page element id was true.After this,When I looked and checked to Amazon Website,Given web page element totally is true.
+
+## Web Page Element Proposal
+
+![SerenityBDD-via-GithubCopilot-th-1](https://user-images.githubusercontent.com/66682123/155022314-d40e25e8-29fb-46e0-a15e-64982f9d12ed.gif)
+
+Also all time you don't click Github Copilot tab.Github Copilot gave advice on screen,and when you push to TAB in keys,Copilot will write automatically.
+
+![SerenityBDD-via-GithubCopilot-th](https://user-images.githubusercontent.com/66682123/155022381-0152d88f-de45-4bcf-85a1-6389b22cad7f.gif)
+
+
+
+
 
 
