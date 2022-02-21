@@ -144,7 +144,7 @@ Serenity uses WebDriverManager to download the WebDriver binaries automatically 
 
 ## Also ı used to Github Copilot in this project
 
-I want to share my experiences about Github Copilot.Firstly,I gave a example to writing scenario via Github Copilot
+I want to share my experiences about Github Copilot.Firstly,I gave a example to writing scenario via Github Copilot.
 
 ![SerenityBDD-via-GithubCopilot-se](https://user-images.githubusercontent.com/66682123/155021154-d12de067-e1a8-4e17-982f-533709dfd1ff.gif)
 
